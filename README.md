@@ -4,9 +4,13 @@
 # Projects
 
 I just create 2 samples project for my family material shop:
-[Hardware shop API](https://github.com/huynhthehainam/hardware-shop)
-[Hardware shop FrontEnd](https://github.com/huynhthehainam/hardware-shop-frontend)
+
+ - [Hardware shop API](https://github.com/huynhthehainam/hardware-shop)
+   
+ - [Hardware shop FrontEnd](https://github.com/huynhthehainam/hardware-shop-frontend)
+
+
 
 Beside of that, I also have some projects below but it belongs to my old company. So I removed sensitive data:
-[Drone hub API](https://github.com/huynhthehainam/drone-hub-api)
 
+ - [Drone hub API](https://github.com/huynhthehainam/drone-hub-api)
